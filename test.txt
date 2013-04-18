@@ -1,0 +1,1 @@
+test the -a option of the commit
